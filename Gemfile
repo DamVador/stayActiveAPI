@@ -6,6 +6,7 @@ ruby '2.7.0'
 gem 'rack-cors'
 gem 'devise'
 gem 'devise-jwt'
+gem 'dotenv-rails'
 gem 'jsonapi-serializer'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
