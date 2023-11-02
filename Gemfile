@@ -8,6 +8,7 @@ gem 'devise'
 gem 'devise-jwt'
 gem 'dotenv-rails'
 gem 'jsonapi-serializer'
+gem "table_print"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.7', '>= 6.1.7.6'
